@@ -1,6 +1,6 @@
 # Geomática para archivos
 
-Esto es un test de uso para el curso.
+Esto es un test de uso de Github para el curso de ACAL.
 
 ## Programa
 
