@@ -11,3 +11,7 @@ Esto es un test de uso de Github para el curso de ACAL.
     <li>Iniciación a la creación de mapas interactivos en MapLibre</li>
     <li>Creación de <i>Story-maps</i></li>
 </ol>
+
+## Ejemplos
+
+<a href="slider.html">Un ejemplo</a>
