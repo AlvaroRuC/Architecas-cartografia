@@ -14,4 +14,4 @@ Esto es un test de uso de Github para el curso de ACAL.
 
 ## Ejemplos
 
-<a href="slider.html">Un ejemplo</a>
+<a href="https://alvaroruc.github.io/Geomatica-para-archivos/slider.html">Un ejemplo</a>
