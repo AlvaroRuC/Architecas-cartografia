@@ -1,4 +1,4 @@
-# Geomatica para archivos
+# Geomática para archivos
 
 Esto es un test de uso para el curso.
 
@@ -11,5 +11,4 @@ Esto es un test de uso para el curso.
     <li>Fundamentos para la creación de mapas interactivos en Qgis</li>
     <li>Fundamentos para la creación de mapas interactivos en Qgis</li>
     <li>Creación de <i>Story-maps</i></li>
-
 </ol>
