@@ -1,6 +1,18 @@
 # Geomática para archivos
 
-Esto es un test de uso de Github para el curso de ACAL.
+<p>Los archivos esconden 
+
+
+<p>La geomática, (de geografía e informática) es la “ciencia que se ocupa de la gestión de la información geográfica mediante las tecnologías de la información y la comunicación”.</p>
+
+
+## Objetivos
+
+<ul>
+    <li>Descubrir las aplicaciones de la geomática </li>
+    <li></li>
+    <li></li>
+</ul>
 
 ## Programa
 
