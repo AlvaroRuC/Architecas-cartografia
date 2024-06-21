@@ -26,11 +26,11 @@
 ## Programa
 
  <ol>
-    <li>Introducción a la geomática para archivos. Ejemplos de uso</li>
-    <li>Fuentes de información geográfica histórica</li>
-    <li>Iniciación a la creación de mapas en Qgis</li>
-    <li>Iniciación a la creación de mapas interactivos en MapLibre</li>
-    <li>Creación de <i>Story-maps</i></li>
+    <li>Introducción a la geomática para archivos. Ejemplos de uso.</li>
+    <li>Fuentes de información geográfica histórica.</li>
+    <li>Iniciación a la creación de mapas en Qgis.</li>
+    <li>Iniciación a la creación de mapas interactivos en MapLibre.</li>
+    <li>Creación de <i>Story-maps.</i></li>
 </ol>
 
 ## Ejemplos
