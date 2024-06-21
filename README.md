@@ -15,12 +15,12 @@
 ## Objetivos
 
 <ul>
-    <li>Descubrir las aplicaciones de la geomática para la difusión de fondos</li>
+    <li>Descubrir las aplicaciones de la geomática para la difusión de fondos.</li>
     <li>Saber identificar los documentos cartografiables.</li>
     <li>Conocer las fuentes de cartografía de base histórica.</li>
     <li>Descubrir las herramientas geomáticas elementales.</li>
     <li>Construir mapas interactivos simples.</li>
-    <li>Crear un story-map.</li>
+    <li>Crear un <i>story-map</i>.</li>
 </ul>
 
 ## Programa
