@@ -1,10 +1,10 @@
 # Geomática para la difusión del patrimonio documental
 
-<p>La información que se conserva en los archivos tiene siempre una dimensión geográfica. Esta dimensión, que puede ser más o menos explícita, es tan real como la dimensión dimensión cronológica. Es por eso por lo que la utilización de la geografía para acceder a la información no es una materia desconocida para los archiveros. Sin embargo, todavía no se ha terminado de exprimir todo su potencial.</p>
+<p>La geomática puede aportar a los archivos un soporte visual e interactivo para representar la información, ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, aprenderemos cómo aprovechar la dimensión espacial de los documentos de archivo para mostrarlos de una forma innovadora a través de internet.</p>
 
 <p>Los geográfos han desarrollado durante las últimas décadas toda una serie de poderosas herramientas informáticas para gestionar, analizar y difundir la información geográfica. El resultado ha sido la creación de una nueva disciplina, la geomática (de geografía e informática) que las ciencias humanas no han tardado en comenzar a adoptar. ¿Y si aprovechásemos esta oportunidad en los archivos?</p>
 
-<p>La geomática puede aportar a los archivos un soporte gráfico e interactivo para representar la información ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, aprenderemos diferentes métodos para aprovechar la dimensión espacial de los documentos de archivo de una forma visual e interactiva.</p>
+<p>Más allá de los propios planos y mapas, los archivos conservan miles de documentos que se pueden representar y visualizar gracias a la cartografía digital. En este curso se aprenderá a identificarlos, darles el formato adecuado y a elegir la mejor manera de difundirlos mediante planos, buscadores cartográficos y <i>story-maps</i>.</p>
 
 ## Objetivos
 
@@ -26,6 +26,10 @@
     <li>Iniciación a la creación de mapas interactivos en MapLibre.</li>
     <li>Creación de <i>Story-maps.</i></li>
 </ol>
+
+## Profesorado
+
+<p>Álvaro Ruiz Cuevas es
 
 ## Ejemplos
 
