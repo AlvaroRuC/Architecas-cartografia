@@ -29,7 +29,7 @@
 
 ## Profesorado
 
-<p>Álvaro Ruiz Cuevas es
+<p>Álvaro Ruiz Cuevas es investigador y desarrollador independiente especializado en humanidades digitales aplicadas a la historia. Es licenciado en Historia por la Universidad de Málaga, máster en Historia Contemporánea y máster en Gestión de Documentación, Bibliotecas y Archivos, estos últimos por la Universidad Complutense. Ha trabajado como archivero en diversas instituciones españolas y extranjeras, como la Norman Foster Foundation, el Instituto Cervantes y los Archives Diplomatiques de Francia. En la actualidad se dedica a la aplicación de la geomática y los SIG a los datos históricos para facilitar la investigación y la difusión del patrimonio documental. Ha desarrollado el proyecto de SIG histórico de Madrid (1869-1879).</p>
 
 ## Ejemplos
 
