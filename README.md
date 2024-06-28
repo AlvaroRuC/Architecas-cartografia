@@ -1,6 +1,6 @@
 # Geomática para la difusión del patrimonio documental
 
-<p>La geomática puede aportar a los archivos un soporte visual e interactivo para representar la información, ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, aprenderemos cómo aprovechar la dimensión espacial de los documentos de archivo para mostrarlos de una forma innovadora a través de internet.</p>
+<p>La cartografía digital puede aportar a los archivos un soporte visual e interactivo para representar la información, ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, aprenderemos cómo aprovechar la dimensión espacial de los documentos de archivo para mostrarlos de una forma innovadora a través de internet.</p>
 
 <p>Los geográfos han desarrollado durante las últimas décadas toda una serie de poderosas herramientas informáticas para gestionar, analizar y difundir la información geográfica. El resultado ha sido la creación de una nueva disciplina, la geomática (de geografía e informática) que las ciencias humanas no han tardado en comenzar a adoptar. ¿Y si aprovechásemos esta oportunidad en los archivos?</p>
 
@@ -22,7 +22,7 @@
  <ol>
     <li>Introducción a la geomática para archivos. Ejemplos de uso.</li>
     <li>Fuentes de información geográfica histórica.</li>
-    <li>Iniciación a la creación de mapas en Qgis.</li>
+    <li>Iniciación a la creación de mapas.</li>
     <li>Iniciación a la creación de mapas interactivos en MapLibre.</li>
     <li>Creación de <i>Story-maps.</i></li>
 </ol>
