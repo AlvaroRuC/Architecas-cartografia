@@ -1,10 +1,8 @@
-# Geomática para la difusión del patrimonio documental
+# Difusión de fondos de archivos y bibliotecas mediante cartografía web
 
-<p>La cartografía digital puede aportar a los archivos un soporte visual e interactivo para representar la información, ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, aprenderemos cómo aprovechar la dimensión espacial de los documentos de archivo para mostrarlos de una forma innovadora a través de internet.</p>
-
-<p>Los geográfos han desarrollado durante las últimas décadas toda una serie de poderosas herramientas informáticas para gestionar, analizar y difundir la información geográfica. El resultado ha sido la creación de una nueva disciplina, la geomática (de geografía e informática) que las ciencias humanas no han tardado en comenzar a adoptar. ¿Y si aprovechásemos esta oportunidad en los archivos?</p>
-
-<p>Más allá de los propios planos y mapas, los archivos conservan miles de documentos que se pueden representar y visualizar gracias a la cartografía digital. En este curso se aprenderá a identificarlos, darles el formato adecuado y a elegir la mejor manera de difundirlos mediante planos, buscadores cartográficos y <i>story-maps</i>.</p>
+<p>Durante las últimas décadas los geógrafos han desarrollado una serie de poderosas herramientas informáticas para gestionar, analizar y difundir la información geográfica. El resultado ha sido la creación de una nueva disciplina, la geomática (de geografía e informática) que las ciencias humanas y particularmente las humanidades digitales no han tardado en adoptar y aplicar de múltiples formas. ¿Y si aprovechásemos esta oportunidad en los archivos y en las bibliotecas?</p>
+<p>La cartografía web puede aportar a los archivos y a las bibliotecas un soporte visual e interactivo para representar la información, ya sea con el fin de acceder a los fondos o de difundirlos. En este curso, que se centrará en la difusión, veremos cómo aprovechar la dimensión espacial de los documentos para mostrarlos de una forma innovadora a través de internet.</p>
+<p>Los archivos y las bibliotecas conservan miles de documentos que se pueden representar y visualizar gracias a la cartografía digital, más allá de los planos y los mapas. En este curso se aprenderá a identificarlos, darles el formato adecuado y a elegir la mejor manera de difundirlos. Aprenderemos de manera práctica a crear planos interactivos, buscadores cartográficos y story-maps. Todo ello a gracias a herramientas gratuitas y de código abierto.</p>
 
 ## Objetivos
 
