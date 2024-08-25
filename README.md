@@ -29,9 +29,9 @@
 
 <p>Álvaro Ruiz Cuevas es investigador y desarrollador independiente especializado en humanidades digitales aplicadas a la historia. Es licenciado en Historia por la Universidad de Málaga, máster en Historia Contemporánea y máster en Gestión de Documentación, Bibliotecas y Archivos, estos últimos por la Universidad Complutense. Ha trabajado como archivero en diversas instituciones españolas y extranjeras, como la Norman Foster Foundation, el Instituto Cervantes y los <i>Archives Diplomatiques</i> de Francia. En la actualidad se dedica a la aplicación de la geomática y los SIG a los datos históricos para facilitar la investigación y la difusión del patrimonio documental. Ha desarrollado el proyecto de <a href="https://madridxix.es">SIG histórico de Madrid (1869-1879)</a>.</p>
 
-## Ejemplos (Añadir algunos ejemplos?)
+## Ejemplos (Mejorar esto!)
 
 
-<a href="https://alvaroruc.github.io/Architecas-cartografia/slider.html">Un ejemplo (cambiar por plano del cólera)</a>
+<a href="https://alvaroruc.github.io/Architecas-cartografia/slider.html">Un ejemplo (CAMBIAR POR EL CÓLERA)</a>
 
-<a href="http://u.osmfr.org/m/1097020/">Diario del viage desde Madrid a Manila, en las islas Filipinas(...)</a>
+<a href="http://u.osmfr.org/m/1097020/">Diario del viage desde Madrid a Manila, en las islas Filipinas(...) A TERMINAR</a>
