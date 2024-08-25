@@ -7,28 +7,28 @@
 ## Objetivos
 
 <ul>
-    <li>Descubrir las aplicaciones de la geomática para la difusión de fondos.</li>
     <li>Saber identificar los documentos cartografiables.</li>
-    <li>Conocer las fuentes de cartografía de base histórica.</li>
-    <li>Descubrir las herramientas geomáticas elementales.</li>
-    <li>Construir mapas interactivos simples.</li>
-    <li>Crear un <i>story-map</i>.</li>
+    <li>Saber localizar las fuentes de cartografía de base histórica.</li>
+    <li>Descubrir algunas de las herramientas básicas de la cartografía en línea.</li>
+    <li>Aprender los conceptos y los procedimientos geomáticos elementales.</li>
+    <li>Aprender a crear mapas interactivos.</li>
+    <li>Aprender a crear una <i>story-map</i>.</li>
 </ul>
 
-## Programa
+## Contenidos
 
  <ol>
     <li>Introducción a la geomática para archivos. Ejemplos de uso.</li>
     <li>Fuentes de información geográfica histórica.</li>
-    <li>Iniciación a la creación de mapas.</li>
-    <li>Iniciación a la creación de mapas interactivos en MapLibre.</li>
+    <li>Georreferenciación de planos históricos.</li>
+    <li>Iniciación a la creación de mapas interactivos.</li>
     <li>Creación de <i>Story-maps.</i></li>
 </ol>
 
 ## Profesorado
 
-<p>Álvaro Ruiz Cuevas es investigador y desarrollador independiente especializado en humanidades digitales aplicadas a la historia. Es licenciado en Historia por la Universidad de Málaga, máster en Historia Contemporánea y máster en Gestión de Documentación, Bibliotecas y Archivos, estos últimos por la Universidad Complutense. Ha trabajado como archivero en diversas instituciones españolas y extranjeras, como la Norman Foster Foundation, el Instituto Cervantes y los Archives Diplomatiques de Francia. En la actualidad se dedica a la aplicación de la geomática y los SIG a los datos históricos para facilitar la investigación y la difusión del patrimonio documental. Ha desarrollado el proyecto de <a href="https://madridxix.es">SIG histórico de Madrid (1869-1879)</a>.</p>
+<p>Álvaro Ruiz Cuevas es investigador y desarrollador independiente especializado en humanidades digitales aplicadas a la historia. Es licenciado en Historia por la Universidad de Málaga, máster en Historia Contemporánea y máster en Gestión de Documentación, Bibliotecas y Archivos, estos últimos por la Universidad Complutense. Ha trabajado como archivero en diversas instituciones españolas y extranjeras, como la Norman Foster Foundation, el Instituto Cervantes y los <i>Archives Diplomatiques</i> de Francia. En la actualidad se dedica a la aplicación de la geomática y los SIG a los datos históricos para facilitar la investigación y la difusión del patrimonio documental. Ha desarrollado el proyecto de <a href="https://madridxix.es">SIG histórico de Madrid (1869-1879)</a>.</p>
 
-## Ejemplos
+## Ejemplos (perfeccionar)
 
 <a href="https://alvaroruc.github.io/Geomatica-para-archivos/slider.html">Un ejemplo</a>
