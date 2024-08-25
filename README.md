@@ -34,4 +34,4 @@
 
 <a href="https://alvaroruc.github.io/Architecas-cartografia/slider.html">Un ejemplo (cambiar por plano del cólera)</a>
 
-<a href="https://umap.openstreetmap.fr/es/map/diario-del-viage-desde-madrid-a-manila-sic-que-hiz_1097020?share#3/17.22/36.39">Diario del viage desde Madrid a Manila, en las islas Filipinas(...)</a>
+<a href="http://u.osmfr.org/m/1097020/">Diario del viage desde Madrid a Manila, en las islas Filipinas(...)</a>
