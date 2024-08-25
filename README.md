@@ -31,4 +31,4 @@
 
 ## Ejemplos (perfeccionar)
 
-<a href="https://alvaroruc.github.io/Architecas-cartografía/slider.html">Un ejemplo</a>
+<a href="https://alvaroruc.github.io/Architecas-cartografia/slider.html">Un ejemplo</a>
