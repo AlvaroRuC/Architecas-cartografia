@@ -29,6 +29,12 @@
 
 <p>Álvaro Ruiz Cuevas es investigador y desarrollador independiente especializado en humanidades digitales aplicadas a la historia. Es licenciado en Historia por la Universidad de Málaga, máster en Historia Contemporánea y máster en Gestión de Documentación, Bibliotecas y Archivos, estos últimos por la Universidad Complutense. Ha trabajado como archivero en diversas instituciones españolas y extranjeras, como la Norman Foster Foundation, el Instituto Cervantes y los <i>Archives Diplomatiques</i> de Francia. En la actualidad se dedica a la aplicación de la geomática y los SIG a los datos históricos para facilitar la investigación y la difusión del patrimonio documental. Ha desarrollado el proyecto de <a href="https://madridxix.es">SIG histórico de Madrid (1869-1879)</a>.</p>
 
+## Metodología
+
+El curso se desarrollará íntegramente online a través de la plataforma de formación online de ACAL (http://formacion.acal.es). Esta plataforma servirá de soporte para obtener el material didáctico, interactuar con el profesor y otros alumnos, así como plantear y resolver las posibles dudas. Junto con los temas se incluirá material de apoyo como bibliografía, vídeos, recomendaciones o pautas a seguir en los diversos retos. Se podrán elaborar actividades o tareas prácticas para comprobar los conocimientos adquiridos por el alumnado. Dentro de la plataforma se habilitará un espacio de comunicación con la profesora, a través de un foro de preguntas o mensajes directos. También se habilitará un espacio común para que el alumnado pueda comunicarse e interactuar entre sí dentro de la plataforma.
+
+El curso combinará clases grabadas y clases en directo. Para estas últimas se utilizará un sistema de videoconferencia, aunque también serán grabadas y subidas a la plataforma para visionarlas en otro momento.
+
 ## Ejemplos (Mejorar esto!)
 
 
