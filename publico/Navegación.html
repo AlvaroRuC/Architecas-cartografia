@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navegación entre planos</title>
+    <link rel="stylesheet" crossorigin href="../estilos/articulos.css">
+</head>
+
+<body>
+    <div class="area-texto">
+        <h1>Cómo permitir la navegación entre planos</h1>
+        <p>La posibilidad de añadir planos y mapas <span class="definicion"
+                title="Cartografía en formato jpg, png, tiff que ha sido georreferenciada.">raster</span> en uMap es
+            limitada. Tan solo se permite incluir un mapa de fondo personalizado y una superposición, lo cual
+            puede resultar insuficiente.
+            Sin embargo, los usuarios han encontrado una alternativa que pueden resultar útil, enlazar diferentes mapas.
+        </p>
+
+        <p>A continuación, os presento un ejemplo en el que se visualiza la 1ª hoja del Mapa Topográfico Nacional que
+            representa
+            Madrid y los municipios cercanos. Para ello, en <img src="../recursos/img/umap/control-engranaje.png"
+                width="15">
+            Propiedades avanzadas del Mapa, &#9654; Fondo personalizado he introducido:
+        </p>
+
+
+
+        <div class="umap-pestana">
+            <summary class="umap-pestana-etiqueta">&#9654; Fondo personalizado</summary>
+            <div class="umap-campos">
+                <div class="">
+                    <p class="umap-etiqueta">nombre para mostrar</p>
+                    <div class="codigo">
+                        <code>
+                        Mapa Topográfico Nacional 1875
+                </code>
+                    </div>
+
+                    <p class="umap-etiqueta">url</p>
+                    <div class="codigo">
+                        <code>
+                        https://warper.wmflabs.org/maps/tile/7768/{z}/{x}/{y}.png
+                </code>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="umap-panel">
+
+
+                <div class="umap-pestana">&#9654; Fondo personalizado</div>
+
+
+            </div>
+
+
+
+            <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"
+                src="//umap.openstreetmap.fr/es/map/madrid-mapa-topografico-nacional-1875_1146159?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
+            <p>
+                <a
+                    href="//umap.openstreetmap.fr/es/map/madrid-mapa-topografico-nacional-1875_1146159?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver
+                    en pantalla completa</a>
+
+        </div>
+</body>
+
+</html>

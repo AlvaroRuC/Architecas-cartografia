@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    /* Supprimer les marges par défaut */
+    padding: 0;
+    /* Supprimer le padding par défaut */
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h2, h3 {
+    text-align: left;
+}
+
+ol {
+    text-align: justify;
+}
+
+.definicion {
+    background-color: rgb(228, 228, 228);  /* Fond gris clair */
+    padding: 0 5px;  /* Espacement autour du texte */
+    border-radius: 5px;  /* Bords arrondis */
+    transition: background-color 0.3s;  /* Transition douce pour le fond */
+  }
+
+  /* Style au survol */
+  .definicion:hover {
+    background-color: #cac8c8; /* Changer la couleur de fond lors du survol */
+    color: rgb(0, 0, 0); /* Changer la couleur du texte */
+    text-decoration: underline; /* Souligner le texte */
+  }
+
+.img-centrada {
+    display: block;
+    /* Convertit l'image en élément de type block */
+    margin-left: auto;
+    /* Marge automatique à gauche */
+    margin-right: auto;
+    /* Marge automatique à droite */
+    max-width: 100%;
+}
+
+.video-centrado {
+    display: block;
+    /* Convertit l'image en élément de type block */
+    margin-left: auto;
+    /* Marge automatique à gauche */
+    margin-right: auto;
+    /* Marge automatique à droite */
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+/* Conteneur principal pour ajouter des marges à droite et à gauche */
+.area-texto {
+    width: 70%;         /* Le div occupe 80% de la largeur de l'écran */
+    margin-left: auto;  /* Centre le div à gauche */
+    margin-right: auto; /* Centre le div à droite */
+    padding: 20px;      /* Padding pour un peu d'espace interne */
+    background-color: #f4f4f9;  /* Fond de couleur claire */
+    text-align: center; /* Centrer le texte à l'intérieur */
+}
+
+.umap-panel {
+    background-color: #323737;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.umap-pestana {
+    color: #efefef;
+    text-align: left;
+    background-color: #232729;
+    border: 1px solid #222;
+}
+
+.umap-pestana-etiqueta{
+background-color: #232729;
+  color: #fff;
+}
+details summary {
+  cursor: pointer;
+  background-color: var(--color-lightGray);
+  line-height: 30px;
+  font-size: 1.2em;
+  padding: 0 5px;
+}
+
+.umap-etiqueta {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: #efefef
+}
+
+.codigo {
+    background-color: #232729;
+    border-color: #1b1f20;
+    color: #efefef;
+    height: inherit;
+    padding: 7px;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1) inset;
+    text-align: justify;
+  }
+
+.parte1 {
+    color: #1e90ff; /* Bleu pour la première partie */
+    font-style: italic;
+}
+
+.parte2 {
+    color: #32cd32; /* Vert pour la deuxième partie */
+    font-style: italic;
+}
+.parte3 {
+    color:#fca107
+}
+.parte4 {
+    color:#b93b25
+}
+
+
+
+

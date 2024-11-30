@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Añadir un logo-vínculo a nuestro mapa</title>
+    <link rel="stylesheet" crossorigin href="../estilos/articulos.css">
+</head>
+
+<body>
+    <div class="area-texto">
+        <h1>Añadir un logo-vínculo a nuestro mapa</h1>
+        <p>uMap permite añadir el logotipo de nuestro proyecto o institución en la esquina inferior izquierda.
+            Además, podemos convertirlo en un vínculo que lleve a la página de nuestra institución al pulsarlo.
+        </p>
+        <img src="../recursos/img/umap/Ejemplo-logo.png" class="img-centrada">
+        <p>Para ello, activad el <i>Modo edición</i> y pulsad <img src="../recursos/img/umap/control-titulo.png" width="15">
+            <i>Editar nombre y leyenda del mapa</i> en la barra de herramientas de la derecha.
+        </p>
+        <p>Desplegad la pestaña <i>Créditos</i> e id a <i>Créditos permanentes</i>. Aquí se nos permite editar
+            lo que aparecerá en la esquina inferior izquierda de nuestro mapa.</p>
+        <p>Se puede añadir muchas cosas utilizando la sintaxis soportada por uMap. Para consultarla pulsad
+            <img src="../recursos/img/umap/ayuda.png" width="15"> <i>Ayuda</i>.
+        </p>
+
+        <video width="720" height="auto" controls class="video-centrado">
+            <source src="../recursos/video/Creditos-permanentes.mp4" type="video/mp4">
+            Lo siento, su navegador no soporta el formato del vídeo.
+        </video>
+
+        <h2>Sintaxis</h2>
+
+        <p>A continuación, voy a mostrar paso a paso cómo crear el logo-vínculo. Es interesante entender
+            cómo funciona porque es un ejemplo muy simple y esta misma mecánica puede aplicarse a otras funcionalidades de uMap.
+            Si ya has entendido cómo funciona uMap, puedes copiar directamente el <a href="#resumen">código</a>
+            que he puesto al final de esta página y adaptarlo tú mismo.
+        </p>
+
+        <h3>Añadir una imagen</h3>
+
+        <p>Para añadir la <b>imagen de un logo</b> tan solo tenemos que envolver la dirección web en la que se encuentra
+            la imagen entre llaves dobles. Por ejemplo, si introducimos lo siguiente se mostrará el logo de ACAL
+            <sup><a href="#note1">1</a></sup>.
+        </p>
+
+        <p class="umap-etiqueta">Créditos permanentes:</p>
+        <div class="codigo">
+            <code>{{https://acal.es/images/portada/logo/logo-ojsacal.png}}</code>
+        </div>
+
+        <p>Si los colores del mapa impiden ver correctamente el contenido de los créditos permanentes se puede
+            activar el botón <i>Fondo de créditos permanentes</i>.
+        </p>
+
+        <img src="../recursos/img/umap/creditos-fondo.png">
+
+        <h3>Modificar el ancho de la imagen</h3>
+
+        <p>Si queremos modificar el <b>ancho del logo</b> podemos especificarlo después de la dirección. Para ello
+            utilizamos una barra vertical como separador y añadimos el tamaño en píxeles. Por ejemplo, si queremos que
+            el ancho sea de 60 píxeles podemos hacerlo así:</p>
+
+        <p class="umap-etiqueta">Créditos permanentes:</p>
+        <div class="codigo">
+            <code>{{https://acal.es/images/portada/logo/logo-ojsacal.png|60}}</code>
+        </div>
+
+        <video width="720" height="auto" controls class="video-centrado">
+            <source src="../recursos/video/Creditos-tamano.mp4" type="video/mp4">
+            Lo siento, su navegador no soporta el formato del vídeo.
+        </video>
+
+        <h3>Convertir la imagen en un vínculo</h3>
+
+        <p>Ahora que tenemos la imagen, podemos convertirla en un hipervínculo que nos dirija a la página de
+            nuestra institución.
+            En uMap los vínculos se envuelven en dobles corchetes y el texto del vínculo se especifica después
+            del separador <code>|</code>. Un ejemplo sería:</p>
+
+        <div class="codigo">
+            <code>[[https://acal.es/|Visite nuestra página web]]</code>
+        </div>
+
+        <p>En nuestro caso, en lugar de añadir un texto como <i>Visite nuestra página web</i>, queremos añadir una
+            imagen.
+            Para eso vamos a utilizar el código que hemos generado anteriormente y lo vamos a incluir en el espacio
+            reservado al texto:</p>
+
+        <p class="umap-etiqueta">Créditos permanentes:</p>
+        <div class="codigo">
+            <code>[[https://acal.es/|{{https://acal.es/images/portada/logo/logo-ojsacal.png|60}}]]</code>
+        </div>
+
+        <p>Ahora la imagen actuará como hipervínculo. ¡El logo-vínculo está terminado!</p>
+
+        <h2 id="resumen">Resumen</h2>
+
+        <p class="umap-etiqueta">Créditos permanentes:</p>
+        <div class="codigo">
+            <code>
+                <span class="parte3">[[</span><span class="parte1">Dirección de la web que queremos enlazar</span>|<span class="parte4">{{</span><span class="parte2">Dirección de la imagen del logo que queremos usar</span><span class="parte4">}}</span><span class="parte3">]]</span>
+        </code>
+        </div>
+
+        <video width="720" height="auto" controls class="video-centrado">
+            <source src="../recursos/video/Creditos-logo.mp4" type="video/mp4">
+            Lo siento, su navegador no soporta el formato del vídeo.
+        </video>
+
+            <h2>Notas</h2>
+            <footer>
+                <ol>
+                    <li id="note1">Tan solo he tenido que copiar el vínculo del logo presente en la página web de ACAL.
+                    </li>
+                </ol>
+            </footer>
+        </div>
+</body>
+
+</html>
